@@ -1,0 +1,3 @@
+C:\Users\parusi\source\repos\ReceiptTranslator\ReceiptTranslator\ReceiptT.87114b1d\x64\Debug\ReceiptTranslator.vcxproj.MdMergeInputs.cache
+C:\Users\parusi\source\repos\ReceiptTranslator\ReceiptTranslator\ReceiptT.87114b1d\x64\Debug\ReceiptTranslator.vcxproj.cppwinrt_plat.cache
+C:\Users\parusi\source\repos\ReceiptTranslator\ReceiptTranslator\ReceiptT.87114b1d\x64\Debug\ReceiptTranslator.vcxproj.cppwinrt_comp.cache
