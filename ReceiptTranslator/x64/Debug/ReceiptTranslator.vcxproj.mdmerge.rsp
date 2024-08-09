@@ -1,4 +1,7 @@
--v -metadata_dir "C:\Program Files (x86)\Windows Kits\10\References\10.0.22621.0\Windows.AI.MachineLearning.MachineLearningContract\5.0.0.0\."
+-v -metadata_dir "C:\Users\parusi\source\repos\ReceiptTranslator\packages\Microsoft.WindowsAppSDK.1.5.240227000\lib\uap10.0.18362\."
+-metadata_dir "C:\Users\parusi\source\repos\ReceiptTranslator\packages\Microsoft.Graphics.Win2D.1.2.0\lib\uap10.0\."
+-metadata_dir "C:\Users\parusi\source\repos\ReceiptTranslator\packages\Microsoft.WindowsAppSDK.1.5.240227000\lib\uap10.0\."
+-metadata_dir "C:\Program Files (x86)\Windows Kits\10\References\10.0.22621.0\Windows.AI.MachineLearning.MachineLearningContract\5.0.0.0\."
 -metadata_dir "C:\Program Files (x86)\Windows Kits\10\References\10.0.22621.0\Windows.AI.MachineLearning.Preview.MachineLearningPreviewContract\2.0.0.0\."
 -metadata_dir "C:\Program Files (x86)\Windows Kits\10\References\10.0.22621.0\Windows.ApplicationModel.Activation.ActivatedEventsContract\1.0.0.0\."
 -metadata_dir "C:\Program Files (x86)\Windows Kits\10\References\10.0.22621.0\Windows.ApplicationModel.Activation.ActivationCameraSettingsContract\1.0.0.0\."
